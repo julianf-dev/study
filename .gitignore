@@ -1,0 +1,27 @@
+# Variables de entorno
+**/.env
+**/.env.*
+!**/.env.example
+
+# Node.js
+**/node_modules/
+**/dist/
+**/build/
+**/.next/
+**/coverage/
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/.venv/
+**/venv/
+**/env/
+
+# IDE / sistema
+**/.vscode/
+**/.idea/
+**/.DS_Store
+**/Thumbs.db
+
+# Logs
+**/*.log
